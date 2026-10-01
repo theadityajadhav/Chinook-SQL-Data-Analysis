@@ -63,3 +63,20 @@ Based on the findings, I identified some areas the business could focus on:
 ## Conclusion
 
 This project gave me practical experience working with a relational database and using SQL to investigate business questions. It also helped me understand how to connect query results with business insights and recommendations.
+
+## Project Screenshots
+
+### Project Overview
+![Chinook Project Overview](screenshots/01-project-overview.png)
+
+### Data Quality, Sales & Geographic Insights
+![Sales and Geographic Analysis](screenshots/02-sales-and-geographic-analysis.png)
+
+### Genre Performance & Customer Insights
+![Genre Analysis](screenshots/03-genre-analysis.png)
+
+### Customer Risk & Lifetime Value
+![Customer Risk and CLV](screenshots/04-customer-risk-and-clv.png)
+
+### Project Conclusion
+![Project Conclusion](screenshots/05-project-conclusion.png)
